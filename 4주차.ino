@@ -1,3 +1,5 @@
+한상현 202402276 컴퓨터공학부
+
 int red = 12;
 int yellow = 11;
 int green = 10;
